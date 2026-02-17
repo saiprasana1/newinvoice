@@ -1,0 +1,13 @@
+nohup: ignoring input
+http://localhost:7860
+Traceback (most recent call last):
+  File "/home/ubuntu/invoice_app/app.py", line 29, in <module>
+    main()
+  File "/home/ubuntu/invoice_app/app.py", line 19, in main
+    demo.launch(
+  File "/usr/local/lib/python3.11/dist-packages/gradio/blocks.py", line 2635, in launch
+    ) = http_server.start_server(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/gradio/http_server.py", line 157, in start_server
+    raise OSError(
+OSError: Cannot find empty port in range: 7860-7860. You can specify a different port by setting the GRADIO_SERVER_PORT environment variable or passing the `server_port` parameter to `launch()`.

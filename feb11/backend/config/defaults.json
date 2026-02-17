@@ -1,0 +1,78 @@
+{
+  "invoice_title": "INVOICE",
+  "invoice_number": "",
+  "invoice_date": "09-02-2026",
+  "due_date": "11-03-2026",
+  "reverse_charge": "YES",
+  "company_info": {
+    "name": "Siva Sakthi Roadways",
+    "tagline": "GOODS TRANSPORT AGENCY & WEIGH BRIDGE",
+    "address": "# D-46, CMDA Truck Terminal Complex, Madhavaram, Chennai - 600 110",
+    "phone": "044-2553 0165",
+    "mobile": "094453 84189",
+    "email": "sekars.ssr@gmail.com",
+    "state": "Tamil Nadu",
+    "state_code": "33",
+    "gstin": "33ARMPS3396J2Z4",
+    "pan": "ARMPS3396J",
+    "bank": {
+      "account_no": "11327915122",
+      "name": "STATE BANK OF INDIA",
+      "ifsc": "SBIN0002814",
+      "branch": "YERRAGUNTLA"
+    }
+  },
+  "supply_mode": "Goods Transport Agency Service",
+  "supply_period": "",
+  "place_of_supply": "",
+  "cgst_rate": 6.0,
+  "sgst_rate": 6.0,
+  "igst_rate": 5.0,
+  "cgst_amount": 0.0,
+  "sgst_amount": 0.0,
+  "igst_amount": 0.0,
+  "billing_to": {
+    "client_name": "",
+    "address": "",
+    "gstin": "",
+    "state": "",
+    "state_code": "",
+    "purchase_order_no": "",
+    "spo_no": ""
+  },
+  "payment_terms": "Payment due upon receipt, or as per contract.",
+  "currency_symbol": "Rs",
+  "date_format": "DD-MM-YYYY",
+  "items": [],
+  "subtotal": 0.0,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax_amount": 0.0,
+  "shipping_handling": 0.0,
+  "total": 0.0,
+  "remarks": "Thank you for choosing Your Logistics Co.! Please reference the invoice number for all inquiries.",
+  "terms_and_conditions": [
+    "Notification No 3/2017 dated 19/6/2017 GST is payable under Reverse charge mechanism.",
+    "Interest @ 18% per annum will be charged on delayed payment of bills.",
+    "All disputes are subject to Yerraguntla Jurisdiction only.",
+    "This Invoice details will be uploaded in our GST Returns as applicable."
+  ],
+  "freight_bill": {
+    "series_no": "",
+    "bill_date": "09-02-2026",
+    "po_no": "",
+    "pan_no": "ARMPS3396J",
+    "summary": "",
+    "to_party": {
+      "name": "",
+      "address": ""
+    },
+    "runs": [],
+    "rate_default": 0.0,
+    "dc_total": 0.0,
+    "gr_total": 0.0,
+    "subtotal": 0.0,
+    "total": 0.0,
+    "amount_in_words": ""
+  }
+}

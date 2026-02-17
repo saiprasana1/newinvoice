@@ -1,0 +1,20 @@
+{
+  "freight_bill": {
+    "series_no": "",
+    "bill_date": "09-02-2026",
+    "po_no": "",
+    "pan_no": "ARMPS3396J",
+    "summary": "",
+    "to_party": {
+      "name": "",
+      "address": ""
+    },
+    "runs": [],
+    "rate_default": 0,
+    "dc_total": 0.0,
+    "gr_total": 0.0,
+    "subtotal": 0.0,
+    "total": 0.0,
+    "amount_in_words": ""
+  }
+}
